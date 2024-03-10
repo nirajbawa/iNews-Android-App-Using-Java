@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">INEWS</string>
+    <string name="navigation_drawer_open">नेव्हिगेशन ड्रॉवर उघडा</string>
+    <string name="navigation_drawer_close">नेव्हिगेशन ड्रॉवर बंद करा</string>
+    <string name="nav_header_subtitle">INews सह तुमचे जीवन उन्नत करा</string>
+    <string name="nav_header_desc">नेव्हिगेशन शीर्षलेख</string>
+    <string name="action_settings">सेटिंग्ज</string>
+    <string name="menu_home">मुख्यपृष्ठ</string>
+    <string name="menu_gallery">गॅलरी</string>
+    <string name="menu_slideshow">स्लाइड शो</string>
+    <string name="bbc">बीबीसी</string>
+    <string name="lokshahi">" लोकशाही"</string>
+    <string name="abp_majha">" एबीपी माझा"</string>
+    <string name="zee24">" ZEE २४"</string>
+    <string name="hello_blank_fragment">हॅलो रिक्त तुकडा</string>
+</resources>
